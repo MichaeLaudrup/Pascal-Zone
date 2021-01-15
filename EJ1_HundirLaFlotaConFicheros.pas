@@ -1,3 +1,9 @@
+{
+Este software simula el juego de hundir la flota. primero lee los datos a traves de un fichero de entrada de tipo .txt, creando los tableros con las posiciones
+de los barcos y sus tipos colocados adecuadamente, luego lee una seria de coordenadas indicativas de lanzamientos secuenciales del jugador 1 y el jugado 2
+de tal forma que el juego acaba bien, cuando se terminan de leer lanzamientos o cuando se encuentra un ganador.
+
+}
 program hundirLaFlotaConFicheros; 
 const 
 	Num_max_barcos = 100; {numero maximo de barcos (100 submarinos)}
