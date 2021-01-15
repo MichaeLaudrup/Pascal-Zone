@@ -1,3 +1,8 @@
+{
+	Este programa dado un archivo de entrada en formato .txt lee una serie de barcos de una cantidad indefinida de jugadores
+	y va creando una cantidad indefinida de tableros con los barcos posicionados.
+	@author: Michael Laudrup Luis Gonzalez
+}
 program hundirLaFlotaConFicheros; 
 const 
 	Num_max_barcos = 100; {numero maximo de barcos (100 submarinos)}
